@@ -1,0 +1,55 @@
+﻿  Imge.cpp
+d:\dev\c++\image processing\image processing\imge.cpp(325): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dev\c++\image processing\image processing\imge.cpp(341): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dev\c++\image processing\image processing\imge.cpp(725): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dev\c++\image processing\image processing\imge.cpp(981): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\dev\c++\image processing\image processing\imge.cpp(995): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dev\c++\image processing\image processing\imge.cpp(997): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dev\c++\image processing\image processing\imge.cpp(1027): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\dev\c++\image processing\image processing\imge.cpp(1042): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dev\c++\image processing\image processing\imge.cpp(1043): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dev\c++\image processing\image processing\imge.cpp(1064): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dev\c++\image processing\image processing\imge.cpp(1065): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MyForm.cpp
+d:\dev\c++\image processing\image processing\myform.h(695): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(696): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(730): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\dev\c++\image processing\image processing\myform.h(744): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(745): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(763): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(764): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(781): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(782): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(798): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(799): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(815): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(816): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(833): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(834): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(852): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(853): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(869): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(870): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(894): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(895): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(974): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dev\c++\image processing\image processing\myform.h(975): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dev\c++\image processing\image processing\myform.h(976): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dev\c++\image processing\image processing\myform.h(1005): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(1006): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(1024): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(1025): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(1043): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(1044): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(1063): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(1064): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(1110): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(1111): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(1132): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(1133): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(1154): warning C4018: '<': signed/unsigned mismatch
+d:\dev\c++\image processing\image processing\myform.h(1155): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Imge.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Image Processing.vcxproj -> D:\dev\C++\Image Processing\Debug\Image Processing.exe
